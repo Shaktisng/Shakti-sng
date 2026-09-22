@@ -1,0 +1,8 @@
+{
+  "name": "Shakti Pharma Wholesale",
+  "description": "B2B Medicine Wholesale Online Ordering & Chemist Distribution Portal with Drug Licence verification, GST invoicing, live order tracking, and inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
